@@ -1,7 +1,8 @@
 # www
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A simple form used for data entry
+
+![site image](https://image.ibb.co/necDbv/localhost_4200_1.png)
 
 ## Prerequisites
 
