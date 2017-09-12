@@ -115,3 +115,16 @@ label.light {
   }
 
 }
+
+.text-color{
+  color:white;
+}
+
+.socal-buttons a{
+  color:white;
+  font-size:24px;
+}
+
+.socal-buttons a:hover{
+  color:gray;
+}
